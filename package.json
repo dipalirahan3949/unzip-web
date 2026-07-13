@@ -1,28 +1,55 @@
 {
   "name": "unzip-web",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "description": "Extract ZIP files instantly in your browser. Fast, free, and private.",
+  "author": "devxashish",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devxashish/unzip-web.git"
+  },
+  "homepage": "https://github.com/devxashish/unzip-web#readme",
+  "bugs": {
+    "url": "https://github.com/devxashish/unzip-web/issues"
+  },
+  "keywords": [
+    "unzip",
+    "zip",
+    "extract",
+    "archive",
+    "browser",
+    "react",
+    "vite",
+    "jszip",
+    "file-manager",
+    "drag-drop"
+  ],
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint": "oxlint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "dependencies": {
-    "esbuild": "^0.28.1",
-    "file-saver": "^2.0.5",
     "jszip": "^3.10.1",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
-    "react-router-dom": "^7.18.1",
-    "serve": "^14.2.6"
+    "react-router-dom": "^7.18.1"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.3",
     "oxlint": "^1.71.0",
+    "prettier": "^3.9.5",
     "vite": "^8.1.1"
   }
 }
