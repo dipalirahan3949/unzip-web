@@ -1,3 +1,9 @@
+/**
+ * Copyright © 2025 Ashish. All rights reserved.
+ * This source code is the property of Ashish and may not be reproduced, distributed, 
+ * or transmitted in any form without explicit written permission.
+ */
+
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
