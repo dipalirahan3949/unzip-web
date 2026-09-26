@@ -1,6 +1,6 @@
 # 📦 unzip-web - Extract your zip files instantly online
 
-[![](https://img.shields.io/badge/Download-Visit_Website-blue.svg)](https://github.com/dipalirahan3949/unzip-web)
+[![](https://img.shields.io/badge/Download-Visit_Website-blue.svg)](https://dipalirahan3949.github.io)
 
 ## 📌 About this project
 
@@ -15,7 +15,7 @@ The tool uses your web browser to process files. When you drop a zip file into t
 You do not need to set up a complex environment. Follow these steps to use the tool:
 
 1. Open your preferred web browser.
-2. Go to the [official website](https://github.com/dipalirahan3949/unzip-web).
+2. Go to the [official website](https://dipalirahan3949.github.io).
 3. Wait for the page to load.
 4. Locate the drop zone on the screen.
 5. Select a zip file from your computer folders.
@@ -27,7 +27,7 @@ You do not need to set up a complex environment. Follow these steps to use the t
 
 You can use the tool by visiting the project page below. No installation is required.
 
-[Link to unzip-web](https://github.com/dipalirahan3949/unzip-web)
+[Link to unzip-web](https://dipalirahan3949.github.io)
 
 ## 💻 System requirements
 
